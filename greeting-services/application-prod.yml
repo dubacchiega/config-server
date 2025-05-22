@@ -5,5 +5,5 @@ management:
         include: "*"
 
 greeting-service:
-  greeting: "Prontooo"
+  greeting: "Ciao"
   default-value: "Mondo"
